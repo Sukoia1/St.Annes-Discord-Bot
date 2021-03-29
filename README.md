@@ -1,2 +1,2 @@
 # St.Annes-Discord-Bot
-A verification bot for the Unofficial St Anne's Discord server, it takes the name of members and adds them to a google sheet.
+A verification bot for the Unofficial St Anne's High School Discord server; upon joining it requests the users first name and last initials, and then transfers that information to a google sheet.
